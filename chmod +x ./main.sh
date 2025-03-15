@@ -2,7 +2,7 @@
 
 
 #change the following to "false" to disable changing the default server name and motd
-setserver="true"
+setserver="false"
 #change the following to "false" to disable updating of server jars and website
 syncweb="true"
 syncjars="true"
